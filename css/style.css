@@ -1,0 +1,232 @@
+body {
+    background-color: #e4e3e3;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #84a9ac;
+    border-width: 5px;
+    margin: 30px auto;
+    width: 5%;
+}
+
+
+h1 {
+    color: #3b6978;
+    text-shadow: 2px 2px 2px white;
+    align-self: center;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    font-family: 'Euphoria Script', cursive;
+}
+
+h2 {
+    color: #3b6978;
+    text-shadow: 2px 2px 2px white;
+    align-self: center;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    font-family: 'Euphoria Script', cursive;
+}
+
+h3 {
+    color: #84a9ac;
+    font-family: 'Nobile', sans-serif;
+}
+
+p {
+    color: #204051;
+    font-family: 'Nobile', sans-serif;
+    width: 70%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+
+table {
+    margin: auto;
+}
+td {
+    color: #204051;
+    margin-top: 0rem;
+    text-align: left;
+}
+tr {
+    color: #204051;
+}
+
+
+.work {
+    text-align: left;
+}
+
+.company {
+    width: 10%;
+}
+
+.company-description {
+    width: 30%;
+}
+
+.starttime {
+    width: 10%;
+}
+
+.endtime {
+    width: 10%;
+}
+
+.jobposition {
+    width: 20%;
+}
+
+.jobdescription {
+    width: 20%;
+}
+
+.alexphoto {
+    position: relative;
+    text-align: center;
+    height: auto;
+}
+
+.homepage {
+    background-color: #84a9ac;
+    position: relative;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+
+.homepage h1,
+h2 {
+    text-align: center;
+}
+
+.BUTTON_MRM {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #204051;
+    font-family: serif;
+    font-size: 100%;
+    font-weight: 100%;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-width: 1;
+    box-shadow: 1px 1px 20px 0px #3b6978;
+    -webkit-box-shadow: 1px 1px 20px 0px #3b6978;
+    -moz-box-shadow: 1px 1px 20px 0px #3b6978;
+    text-shadow: 1px 1px 20px #3b6978;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+    
+    .BUTTON_MRM:hover {
+    border: solid #FFFFFF 1px;
+    background: #FFFFFF;
+    background-image: -webkit-linear-gradient(top, #FFFFFF, #3b6978);
+    background-image: -moz-linear-gradient(top, #FFFFFF, #3b6978);
+    background-image: -ms-linear-gradient(top, #FFFFFF, #3b6978);
+    background-image: -o-linear-gradient(top, #FFFFFF, #3b6978);
+    background-image: linear-gradient(to bottom, #FFFFFF, #3b6978);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    }
+
+    .upbutton {
+        position: relative;
+        display: block;
+    }
+
+
+    .footer {
+        background-color: #84a9ac;
+        text-align: center;
+        text-shadow: 2px 2px 2px white;
+        position: relative;
+        margin-bottom: none;
+        margin-top: 30px;
+    }
+    .footer p {
+        padding: 30px;
+        color: #3b6978;
+        margin-block-start: 0em;
+        margin-block-end: 0em;
+        text-align: center;
+        
+    }
+
+    .motto {
+        background-color: #84a9ac;
+        text-align: auto;
+        display: inline-flex;
+        width: 70%;
+    }
+
+    .motto p {
+        text-align: right;
+        width: fit-content;
+        padding: 10px;
+        line-height: normal; 
+        color: #e4e3e3;  
+    }
+
+
+    .hobbies {
+        width: 50%;
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .myhobbies {
+        height: 150px;
+        border-style: solid;
+        border-color: white;
+        
+    }
+
+    .myhobbies:hover {
+        border: 2px solid white;
+        transform: scale(2);
+        display: flexbox;
+    }
+
+    .mediacontacts a {
+        text-decoration: none;
+        color: #3b6978;
+    }
+
+    .form {
+        color: #3b6978;
+    }
+  
+
+    #mypic {
+        border-radius: 50%;
+        border-style: solid;
+        border-color: white;
+        height: 150px;
+        text-align: center;
+    }
+    
+    
+    
+    #ornament {
+        height: 50px;
+        padding: 20px;
+        text-align: center;
+        position: relative;
+    }
+    
